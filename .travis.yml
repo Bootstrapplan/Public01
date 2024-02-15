@@ -2,7 +2,7 @@ jobs:
   include:
     - language: c
       os:
-       # - linux
+        - linux
         - osx
        # - windows
       arch: amd64
